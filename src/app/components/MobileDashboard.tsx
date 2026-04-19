@@ -25,7 +25,7 @@ export default function MobileDashboard() {
             <h1 className="text-white text-2xl">Marie L.</h1>
           </div>
           <img
-            src="/src/imports/image.png"
+            src="/logo.png"
             alt="EcoLocal"
             className="w-12 h-12 object-contain opacity-80"
           />

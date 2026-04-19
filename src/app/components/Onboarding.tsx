@@ -41,7 +41,7 @@ export default function Onboarding({ onComplete }: OnboardingProps) {
             className="text-center max-w-2xl"
           >
             <motion.img
-              src="/src/imports/image.png"
+              src="/logo.png"
               alt="EcoLocal"
               className="w-48 h-48 mx-auto mb-8"
               initial={{ scale: 0 }}

@@ -25,7 +25,7 @@ export default function Sidebar({ activeView, onViewChange }: SidebarProps) {
       <div className="p-6 border-b border-sidebar-border">
         <div className="flex items-center gap-3">
           <img
-            src="/src/imports/image.png"
+            src="/logo.png"
             alt="EcoLocal"
             className="w-12 h-12 object-contain"
           />
